@@ -3,7 +3,7 @@ A coding experiment I made sometime back in 2022 to learn networking in Unity.
 
 This project uses Unity 2020.3.27f1 and Mirror as its networking solution.
 
-[image](READMEFiles/image1.png)
+![image](READMEFiles/image1.png)
 
 Controls:
 click to lock/unlock mouse
