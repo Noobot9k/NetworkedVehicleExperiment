@@ -15,7 +15,7 @@ Controls:
 
 Interact with the box at the front of the vehicle to start controlling it. Press again to stop driving.
 
-Some cool stuff I did with this project:
+### Some cool stuff I did with this project:
 * The vehicle and its trailers are networked.
 * The networked vehicle can be driven by the host or by a connected client and will behave mostly the same either way.
 * The vehicle's movement is simulated on every players PC with just the driver's inputs being kept in sync. The vehicle's position is only corrected if it gets too far out of sync. (Dead reckoning)
