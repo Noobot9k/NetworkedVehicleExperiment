@@ -6,10 +6,12 @@ This project uses Unity 2020.3.27f1 and Mirror as its networking solution.
 ![image](READMEFiles/image1.png)
 
 Controls:
-click to lock/unlock mouse
-E to interact with the box at the front of the vehicle and start controlling it. E again to stop driving.
-W,A,S, and D to move.
-Space to jump.
+|Key|Action|
+|:---:|:---:|
+|click|lock/unlock mouse|
+|E|to interact with the box at the front of the vehicle and start controlling it. Press again to stop driving.|
+|W,A,S, and D|move.|
+|Space|jump.|
 
 Some cool stuff I did with this project:
 * The vehicle and its trailers are networked.
